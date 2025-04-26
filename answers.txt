@@ -1,5 +1,5 @@
 Q1: Enter ACCT for this on boarding
-A1: a
+A1: 1234
 
 Q2: Enter DEAL for this on boarding
-A2: d1
+A2: deal123
