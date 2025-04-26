@@ -1,5 +1,9 @@
+```yaml
 Test:
   Acct:
     - 123
+    - a
   DEAL:
     - 456
+    - d
+```
