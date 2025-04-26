@@ -2,4 +2,4 @@ Q1: Enter ACCT for this on boarding
 A1: a
 
 Q2: Enter DEAL for this on boarding
-A2: (no answer)
+A2: d
