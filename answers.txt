@@ -1,8 +1,8 @@
 Q1: What is your name?
-A1: 1
+A1: q
 
 Q2: How are you feeling today?
-A2: 2
+A2: rr
 
 Q3: What are your goals for this week?
-A3: (no answer)
+A3: t
