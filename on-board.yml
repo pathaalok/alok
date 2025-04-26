@@ -3,8 +3,10 @@ Test:
     - 123
     - a
     - ACT123
+    - 1234
   DEAL:
     - 456
     - d
     - DEA123
     - d1
+    - deal123
