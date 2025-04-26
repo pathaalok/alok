@@ -1,8 +1,5 @@
-Q1: What is your name?
-A1: q
+Q1: Enter ACCT for this on boarding
+A1: 45
 
-Q2: How are you feeling today?
-A2: rr
-
-Q3: What are your goals for this week?
-A3: t
+Q2: Enter DEAL for this on boarding
+A2: 67
