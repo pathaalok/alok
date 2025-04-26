@@ -2,7 +2,7 @@ Q1: What is your name?
 A1: 1
 
 Q2: How are you feeling today?
-A2: (no answer)
+A2: 2
 
 Q3: What are your goals for this week?
 A3: (no answer)
