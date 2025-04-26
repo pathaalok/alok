@@ -1,5 +1,5 @@
 Q1: Enter ACCT for this on boarding
-A1: 45
+A1: a
 
 Q2: Enter DEAL for this on boarding
-A2: 67
+A2: (no answer)
