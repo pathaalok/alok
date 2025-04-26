@@ -1,4 +1,3 @@
-```yaml
 Test:
   Acct:
     - 123
@@ -6,4 +5,3 @@ Test:
   DEAL:
     - 456
     - d
-```
