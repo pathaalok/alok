@@ -1,5 +1,32 @@
 Test:
   Acct:
     - 123
+    - P2  # New account added based on Q1
   DEAL:
     - 456
+    - SOR1  # New SOR added based on Q2, respective name is formed as per convention
+    - SOR2  # New SOR added based on Q2, respective name is formed as per convention
+    - SOR3  # New SOR added based on Q2, respective name is formed as per convention
+  BUS_UNIT: WHL  # Added based on Q3
+  RCC_RULES:
+    - COUNTRY
+    - LOB
+    - TYPE
+    - DOC_CAT
+    - DOC_TYPE
+    - INV_REF
+    - RCCCN
+    - LOB1
+    - ACCT
+    - 1
+    - 12
+    - AlRCCUS
+    - LOB1
+    - DEAL
+    - 1
+    - ''
+    - Al1RCCUS
+    - ''
+    - ''
+    - 143
+    - Al1RCC  # Added based on Q4
