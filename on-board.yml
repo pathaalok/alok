@@ -1,5 +1,8 @@
 Test:
   Acct:
     - 123
+    - ACCT/SOR1
+    - ACCT/SOR2
   DEAL:
     - 456
+    - DEAL/SOR3
