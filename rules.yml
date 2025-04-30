@@ -1,4 +1,5 @@
 rules:
-  non_reg:
+  non_reg: #COUNTRY|LOB|TYPE|DOC_CAT|DOC_TYPE
+    "[US|LOB1|ACCT|11|11]": AlRCC
   reg:
   fed:
